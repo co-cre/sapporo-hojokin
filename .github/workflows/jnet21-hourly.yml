@@ -1,0 +1,31 @@
+name: jnet21-hourly
+# J-Net21 のRSSは全国の新着が十数件しか載らず、毎朝1回では北海道分を取りこぼすため1時間ごとに取る。
+# 北海道・札幌の新着があったときだけコミットする（毎時の空コミットは作らない）。サイトへの反映は毎朝の daily で行う。
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: data, cancel-in-progress: false }
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 collect.py --only jnet21
+      - run: |
+          git config user.name "hojokin-bot"
+          git config user.email "hojokin-bot@users.noreply.github.com"
+          git add data/subsidies.json
+          git diff --cached --quiet || { git commit -m "data: J-Net21 新着"; git push; }
+      - name: 失敗をSlackへ
+        if: failure() && env.SLACK_WEBHOOK_URL != ''
+        run: |
+          curl -s -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\"札幌の補助金サイトのJ-Net21取得が失敗しました ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" \
+            "$SLACK_WEBHOOK_URL"

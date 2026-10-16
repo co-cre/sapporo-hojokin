@@ -1,0 +1,47 @@
+name: daily
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 毎朝6時（JST）
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: { group: data, cancel-in-progress: false }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: 集める
+        id: collect
+        run: python3 collect.py
+        continue-on-error: true
+      - run: python3 build.py
+      - name: データの差分を残す
+        run: |
+          git config user.name "hojokin-bot"
+          git config user.email "hojokin-bot@users.noreply.github.com"
+          git add data/subsidies.json
+          git diff --cached --quiet || git commit -m "data: $(date -u -d '+9 hours' +%F) の更新"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: public }
+      - uses: actions/deploy-pages@v4
+        id: deploy
+      - name: 取得に失敗した情報源があれば失敗にする
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
+      - name: 失敗をSlackへ
+        if: failure() && env.SLACK_WEBHOOK_URL != ''
+        run: |
+          curl -s -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\"札幌の補助金サイトの毎朝更新が失敗しました ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" \
+            "$SLACK_WEBHOOK_URL"
