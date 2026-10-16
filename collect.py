@@ -6,7 +6,7 @@
 前回のデータと合わせる:
 - 初めて見た日（first_seen）と最後に確認した日（checked）を持つ
 - 締切が過ぎたものは落とす。締切の無いもの（RSS由来）は初見から KEEP_DAYS 日で落とす
-- 取得に失敗した情報源は前回分を残し、終了コード1で知らせる（古いまま黙って出し続けない）
+- 取得に失敗した情報源（いつもあるはずが0件のときも）は前回分を残し、終了コード1で知らせる（古いまま黙って出し続けない）
 """
 import argparse
 import json
@@ -18,6 +18,9 @@ from collectors import hokkaido, jgrants, jnet21, sapporo
 from collectors.common import JST, now_jst
 
 SOURCES = {"jgrants": jgrants, "sapporo": sapporo, "hokkaido": hokkaido, "jnet21": jnet21}
+# いつも何件かあるはずの情報源。0件ならページ構成の変更などを疑い、失敗として前回分を残す
+# （札幌市・J-Net21 は新着が無い日に0件が普通なので含めない）
+NEVER_EMPTY = {"jgrants", "hokkaido"}
 DATA = Path(__file__).parent / "data" / "subsidies.json"
 KEEP_DAYS = 60
 
@@ -50,6 +53,8 @@ def main():
     for name in targets:
         try:
             got = SOURCES[name].collect()
+            if not got and name in NEVER_EMPTY:
+                raise RuntimeError("0件だった（ページ構成が変わった可能性）")
             status[name] = {"ok": True, "count": len(got), "at": now.isoformat(timespec="seconds")}
             for it in got:
                 fresh[it["id"]] = it

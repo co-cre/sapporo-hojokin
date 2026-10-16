@@ -41,7 +41,7 @@ footer a { color:var(--sub); }
   <h1>__SITE_NAME__</h1>
   <p class="lead">__LEAD__</p>
   <p class="count"><b id="n">0</b>件 掲載中</p>
-  <p class="updated">最終更新 __UPDATED__（毎朝6時ごろ自動更新。札幌市・北海道の新しい公募は出しだい載ります）</p>
+  <p class="updated">最終更新 __UPDATED__（毎朝6時ごろ自動更新。札幌市・北海道の新しい公募も毎朝の更新で加わります）</p>
   __LINE__
   <input type="search" id="q" placeholder="キーワードで探す（例: IT導入、省エネ、人材）" aria-label="キーワードで探す">
   <div class="filters" role="group" aria-label="実施する機関で絞る">
@@ -68,7 +68,8 @@ const fmtYen = n => n >= 1e8 ? `${(n/1e8).toLocaleString()}億円` : n >= 1e4 ? 
 function render() {
   const q = document.getElementById("q").value.trim().toLowerCase();
   const now = Date.now();
-  const shown = ITEMS.filter(it => (!level || it.level === level || (level === "道" && it.level === "その他"))
+  const shown = ITEMS.filter(it => (!it.end || new Date(it.end) >= now)
+    && (!level || it.level === level || (level === "道" && it.level === "その他"))
     && (!q || (it.title + it.org).toLowerCase().includes(q)));
   document.getElementById("n").textContent = shown.length;
   const ul = document.getElementById("list");

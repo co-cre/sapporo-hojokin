@@ -11,6 +11,9 @@ concurrency: { group: data, cancel-in-progress: false }
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     env:
       SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
     steps:
@@ -32,6 +35,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with: { path: public }
       - uses: actions/deploy-pages@v4
+        id: deploy
       - name: 取得に失敗した情報源があれば失敗にする
         if: steps.collect.outcome == 'failure'
         run: exit 1

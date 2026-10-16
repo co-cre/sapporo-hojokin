@@ -11,6 +11,8 @@ concurrency: { group: data, cancel-in-progress: false }
 jobs:
   poll:
     runs-on: ubuntu-latest
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,3 +23,9 @@ jobs:
           git config user.email "hojokin-bot@users.noreply.github.com"
           git add data/subsidies.json
           git diff --cached --quiet || { git commit -m "data: J-Net21 新着"; git push; }
+      - name: 失敗をSlackへ
+        if: failure() && env.SLACK_WEBHOOK_URL != ''
+        run: |
+          curl -s -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\"札幌の補助金サイトのJ-Net21取得が失敗しました ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" \
+            "$SLACK_WEBHOOK_URL"
