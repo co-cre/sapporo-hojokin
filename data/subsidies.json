@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:54:46+09:00",
+ "updated": "2026-10-19T15:17:05+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-19T07:54:46+09:00"
+   "at": "2026-10-19T15:17:05+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDeY0MAL",
-   "source": "jgrants",
-   "level": "国",
-   "title": "「水素社会モデル構築高度化技術開発・実証事業」の第2回公募",
-   "org": "P26004_水素社会モデル構築高度化技術開発・実証事業",
-   "max_amount": null,
-   "rate": "",
-   "start": "2026-09-18T01:00:00.000Z",
-   "end": "2026-10-19T03:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-19T07:54:46+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDeOLMA1",
    "source": "jgrants",
