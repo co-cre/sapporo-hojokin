@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:34:39+09:00",
+ "updated": "2026-10-22T22:47:52+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -21,26 +21,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-22T16:34:39+09:00"
+   "at": "2026-10-22T22:47:52+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDYaFMAX",
-   "source": "jgrants",
-   "level": "国",
-   "title": "【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（業務用建築物ストックの省CO2改修調査支援事業（令和７年度補正予算二次公募・令和８年度一次公募））",
-   "org": "建築物等のZEB化・省CO2化普及加速事業",
-   "max_amount": 1000000,
-   "rate": "",
-   "start": "2026-05-01T06:00:00.000Z",
-   "end": "2026-10-22T08:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYaFMAX",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-22T08:56:29+09:00"
-  },
   {
    "id": "jgrants:a0WfQ000003GpG9UAK",
    "source": "jgrants",
