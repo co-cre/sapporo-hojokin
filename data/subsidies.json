@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:56:29+09:00",
+ "updated": "2026-10-22T16:34:39+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -21,26 +21,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-22T08:56:29+09:00"
+   "at": "2026-10-22T16:34:39+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDeOLMA1",
-   "source": "jgrants",
-   "level": "国",
-   "title": "「地盤・海象・気象等の調査・観測技術の高度化・高効率化に関する研究開発」　の公募",
-   "org": "P07015_風力発電等導入支援事業",
-   "max_amount": null,
-   "rate": "",
-   "start": "2026-09-18T01:00:00.000Z",
-   "end": "2026-10-22T03:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-22T08:56:29+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDYaFMAX",
    "source": "jgrants",
