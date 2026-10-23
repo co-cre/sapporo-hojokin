@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:55:56+09:00",
+ "updated": "2026-10-23T16:31:39+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-23T08:55:56+09:00"
+   "at": "2026-10-23T16:31:39+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WfQ000003GpG9UAK",
-   "source": "jgrants",
-   "level": "国",
-   "title": "令和７年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・ＦＳ事業：二次公募）（ＦＳ・小規模実証事業実施事業者の募集（補助））",
-   "org": "グローバルサウス未来志向型共創等事業費補助金",
-   "max_amount": null,
-   "rate": "",
-   "start": "2026-10-02T03:00:00.000Z",
-   "end": "2026-10-23T03:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003GpG9UAK",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-23T08:55:56+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDdl2MAD",
    "source": "jgrants",
