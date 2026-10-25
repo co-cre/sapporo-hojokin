@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-25T08:01:14+09:00",
+ "updated": "2026-10-26T08:06:33+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
    "count": 110,
-   "at": "2026-10-25T08:01:14+09:00"
+   "at": "2026-10-26T08:06:33+09:00"
   },
   "sapporo": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-25T08:01:14+09:00"
+   "at": "2026-10-26T08:06:33+09:00"
   },
   "hokkaido": {
    "ok": true,
    "count": 1,
-   "at": "2026-10-25T08:01:14+09:00"
+   "at": "2026-10-26T08:06:33+09:00"
   },
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-25T08:01:14+09:00"
+   "at": "2026-10-26T08:06:33+09:00"
   }
  },
  "items": [
@@ -37,7 +37,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003iZLKUA2",
@@ -53,7 +53,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003EZsDUAW",
@@ -69,7 +69,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003EZsDUAW",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDc0YMAT",
@@ -85,7 +85,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT",
    "note": "300名以下",
    "first_seen": "2026-10-17T01:15:46+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXscMAH",
@@ -101,7 +101,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXscMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDPyeMAH",
@@ -117,7 +117,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPyeMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYh2MAH",
@@ -133,7 +133,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYh2MAH",
    "note": "300名以下",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDczHMAT",
@@ -149,7 +149,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDczHMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDczMMAT",
@@ -165,7 +165,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDczMMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDaotMAD",
@@ -181,7 +181,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDZ04MAH",
@@ -197,7 +197,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYzVMAX",
@@ -213,7 +213,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDZ1GMAX",
@@ -229,7 +229,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY4mMAH",
@@ -245,7 +245,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDe4JMAT",
@@ -261,7 +261,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDapWMAT",
@@ -277,7 +277,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapWMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N8hVUAS",
@@ -293,7 +293,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N8hVUAS",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003JPtqUAG",
@@ -309,7 +309,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPtqUAG",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RXUA0",
@@ -325,7 +325,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RYUA0",
@@ -341,7 +341,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RaUAK",
@@ -357,7 +357,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RZUA0",
@@ -373,7 +373,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RWUA0",
@@ -389,7 +389,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RVUA0",
@@ -405,7 +405,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003N1RbUAK",
@@ -421,7 +421,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXkJMAX",
@@ -437,7 +437,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDdjfMAD",
@@ -453,7 +453,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjfMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003qYNFUA2",
@@ -469,7 +469,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qYNFUA2",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-23T08:55:56+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDNDnMAP",
@@ -485,7 +485,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDZDHMA5",
@@ -501,7 +501,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003CYIjUAO",
@@ -517,7 +517,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDd3OMAT",
@@ -533,7 +533,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDd3YMAT",
@@ -549,7 +549,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003ENsfUAG",
@@ -565,7 +565,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYbNMAX",
@@ -581,7 +581,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDe82MAD",
@@ -597,7 +597,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-20T09:10:09+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003myubUAA",
@@ -613,7 +613,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-23T08:55:56+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003mzyjUAA",
@@ -629,7 +629,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-23T08:55:56+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY5GMAX",
@@ -645,7 +645,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDZzQMAX",
@@ -661,7 +661,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDa1gMAD",
@@ -677,7 +677,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYEGMA5",
@@ -693,7 +693,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEGMA5",
    "note": "300名以下",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXyuMAH",
@@ -709,7 +709,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXyuMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDderMAD",
@@ -725,7 +725,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDderMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDa1bMAD",
@@ -741,7 +741,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003aZqLUAU",
@@ -757,7 +757,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003aZqLUAU",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYDCMA5",
@@ -773,7 +773,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDbyjMAD",
@@ -789,7 +789,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXmVMAX",
@@ -805,7 +805,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX",
    "note": "300名以下",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003lu8IUAQ",
@@ -821,7 +821,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYC7MAP",
@@ -837,7 +837,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYC7MAP",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYBxMAP",
@@ -853,7 +853,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP",
    "note": "901名以上",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WfQ000003cAFxUAM",
@@ -869,7 +869,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY2TMAX",
@@ -885,7 +885,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY2TMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDVkeMAH",
@@ -901,7 +901,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDHQZMA5",
@@ -917,7 +917,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDHQZMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDZ2OMAX",
@@ -933,7 +933,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY7KMAX",
@@ -949,7 +949,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY7KMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDWZ9MAP",
@@ -965,7 +965,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWZ9MAP",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDeC1MAL",
@@ -981,7 +981,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeC1MAL",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYq2MAH",
@@ -997,7 +997,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYq2MAH",
    "note": "300名以下",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXRpMAP",
@@ -1013,7 +1013,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXRpMAP",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYSPMA5",
@@ -1029,7 +1029,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSPMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDdPBMA1",
@@ -1045,7 +1045,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPBMA1",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDZDCMA5",
@@ -1061,7 +1061,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDCMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDeRiMAL",
@@ -1077,7 +1077,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeRiMAL",
    "note": "300名以下",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYSAMA5",
@@ -1093,7 +1093,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSAMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYSFMA5",
@@ -1109,7 +1109,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSFMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDL8JMAX",
@@ -1125,7 +1125,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDL8JMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDd5XMAT",
@@ -1141,7 +1141,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5XMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDdA6MAL",
@@ -1157,7 +1157,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdA6MAL",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDd9xMAD",
@@ -1173,7 +1173,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd9xMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDd9wMAD",
@@ -1189,7 +1189,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd9wMAD",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDdABMA1",
@@ -1205,7 +1205,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdABMA1",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDX4vMAH",
@@ -1221,7 +1221,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY72MAH",
@@ -1237,7 +1237,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY72MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXENMA5",
@@ -1253,7 +1253,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXENMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXFjMAP",
@@ -1269,7 +1269,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFjMAP",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYCrMAP",
@@ -1285,7 +1285,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCrMAP",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYvnMAH",
@@ -1301,7 +1301,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvnMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYviMAH",
@@ -1317,7 +1317,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYviMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDXORMA5",
@@ -1333,7 +1333,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXORMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY91MAH",
@@ -1349,7 +1349,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY91MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY8DMAX",
@@ -1365,7 +1365,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY8DMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY9BMAX",
@@ -1381,7 +1381,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY9BMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY7tMAH",
@@ -1397,7 +1397,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY7tMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY96MAH",
@@ -1413,7 +1413,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY96MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY7yMAH",
@@ -1429,7 +1429,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY7yMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY89MAH",
@@ -1445,7 +1445,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY89MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDY88MAH",
@@ -1461,7 +1461,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY88MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYuhMAH",
@@ -1477,7 +1477,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuhMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYuXMAX",
@@ -1493,7 +1493,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuXMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYurMAH",
@@ -1509,7 +1509,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYurMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYu3MAH",
@@ -1525,7 +1525,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYu3MAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYumMAH",
@@ -1541,7 +1541,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYumMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYuIMAX",
@@ -1557,7 +1557,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuIMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYucMAH",
@@ -1573,7 +1573,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYucMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYuSMAX",
@@ -1589,7 +1589,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuSMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYSUMA5",
@@ -1605,7 +1605,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSUMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYSKMA5",
@@ -1621,7 +1621,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSKMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDOsKMAX",
@@ -1637,7 +1637,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOsKMAX",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0W2x000003QZLqEAO",
@@ -1653,7 +1653,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QZLqEAO",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDYimMAH",
@@ -1669,7 +1669,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDdtMMAT",
@@ -1685,7 +1685,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0W5h00000UaiqSEAR",
@@ -1701,7 +1701,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UaiqSEAR",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDJWIMA5",
@@ -1717,7 +1717,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDJWIMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0W5h00000GMgXBEA1",
@@ -1733,7 +1733,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000GMgXBEA1",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0W5h00000UbU66EAF",
@@ -1749,7 +1749,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbU66EAF",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ2000000qhOQMAY",
@@ -1765,7 +1765,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000qhOQMAY",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "jgrants:a0WJ200000CDQEJMA5",
@@ -1781,7 +1781,7 @@
    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQEJMA5",
    "note": "従業員数の制約なし",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   },
   {
    "id": "hokkaido:/kz/csk/243189.html",
@@ -1797,7 +1797,7 @@
    "url": "https://www.pref.hokkaido.lg.jp/kz/csk/243189.html",
    "note": "",
    "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-25T08:01:14+09:00"
+   "checked": "2026-10-26T08:06:33+09:00"
   }
  ]
 }
