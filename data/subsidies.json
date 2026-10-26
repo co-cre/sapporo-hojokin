@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:06:33+09:00",
+ "updated": "2026-10-26T15:12:49+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-26T08:06:33+09:00"
+   "at": "2026-10-26T15:12:49+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDdl2MAD",
-   "source": "jgrants",
-   "level": "国",
-   "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
-   "org": "P93050_脱炭素化・エネルギー転換に資する我が国技術の国際実証事業",
-   "max_amount": null,
-   "rate": "",
-   "start": "2026-09-25T01:00:00.000Z",
-   "end": "2026-10-26T03:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-26T08:06:33+09:00"
-  },
   {
    "id": "jgrants:a0WfQ000003iZLKUA2",
    "source": "jgrants",
