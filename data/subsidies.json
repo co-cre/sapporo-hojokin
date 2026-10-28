@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:20:38+09:00",
+ "updated": "2026-10-28T17:30:22+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,42 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-28T09:20:38+09:00"
+   "at": "2026-10-28T17:30:22+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WfQ000003iZLKUA2",
-   "source": "jgrants",
-   "level": "道",
-   "title": "令和８年度酒類業振興支援事業費補助金（第６期）",
-   "org": "酒類業振興支援事業費補助金",
-   "max_amount": 15000000,
-   "rate": "",
-   "start": "2026-10-08T01:00:00.000Z",
-   "end": "2026-10-28T03:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-28T09:20:38+09:00"
-  },
-  {
-   "id": "jgrants:a0WfQ000003EZsDUAW",
-   "source": "jgrants",
-   "level": "国",
-   "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　追加公募分）",
-   "org": "水力発電導入促進支援事業費補助金",
-   "max_amount": 20000000,
-   "rate": "",
-   "start": "2026-09-28T00:00:00.000Z",
-   "end": "2026-10-28T08:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003EZsDUAW",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-28T09:20:38+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDc0YMAT",
    "source": "jgrants",
