@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:30:22+09:00",
+ "updated": "2026-10-29T01:01:28+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-28T17:30:22+09:00"
+   "at": "2026-10-29T01:01:28+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDc0YMAT",
-   "source": "jgrants",
-   "level": "国",
-   "title": "令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金",
-   "org": "令和８年度都市ガス分野の災害対応・レジリエンス強化にかかる支援事業費補助金",
-   "max_amount": 130502000,
-   "rate": "",
-   "start": "2026-10-07T00:00:00.000Z",
-   "end": "2026-10-28T14:59:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT",
-   "note": "300名以下",
-   "first_seen": "2026-10-17T01:15:46+09:00",
-   "checked": "2026-10-28T09:20:38+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDXscMAH",
    "source": "jgrants",
