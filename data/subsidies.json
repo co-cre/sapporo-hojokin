@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:41:12+09:00",
+ "updated": "2026-10-29T23:18:31+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -18,27 +18,11 @@
   },
   "jnet21": {
    "ok": true,
-   "count": 0,
-   "at": "2026-10-29T09:41:12+09:00"
+   "count": 1,
+   "at": "2026-10-29T23:18:31+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDXscMAH",
-   "source": "jgrants",
-   "level": "国",
-   "title": "IP360 海外展開支援（ローカライズ支援）",
-   "org": "IP360（令和７年度補正コンテンツ産業成長投資支援事業費補助金）",
-   "max_amount": 40000000,
-   "rate": "",
-   "start": "2026-10-08T06:00:00.000Z",
-   "end": "2026-10-29T08:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXscMAH",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-29T09:41:12+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDPyeMAH",
    "source": "jgrants",
@@ -1750,6 +1734,22 @@
    "note": "",
    "first_seen": "2026-10-29T09:41:12+09:00",
    "checked": "2026-10-29T09:41:12+09:00"
+  },
+  {
+   "id": "jnet21:https://j-net21.smrj.go.jp/snavi/articles/195124",
+   "source": "jnet21",
+   "level": "その他",
+   "title": "【札幌市】補助金・助成金：「札幌市先端設備等導入促進補助金（令和8年度事業）」",
+   "org": "札幌市",
+   "max_amount": null,
+   "rate": "",
+   "start": null,
+   "end": null,
+   "published": "2026-10-29T18:30:00+09:00",
+   "url": "https://j-net21.smrj.go.jp/snavi/articles/195124",
+   "note": "",
+   "first_seen": "2026-10-29T23:18:31+09:00",
+   "checked": "2026-10-29T23:18:31+09:00"
   },
   {
    "id": "hokkaido:/kz/csk/243189.html",
