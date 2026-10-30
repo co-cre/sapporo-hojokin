@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:07:27+09:00",
+ "updated": "2026-10-31T04:21:38+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-10-30T23:07:27+09:00"
+   "at": "2026-10-31T04:21:38+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDY4mMAH",
-   "source": "jgrants",
-   "level": "国",
-   "title": "令和７年度補正 業務産業用蓄電システム導入支援事業",
-   "org": "令和７年度補正 「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金」業務産業用蓄電システム導入支援事業",
-   "max_amount": 15000000,
-   "rate": "",
-   "start": "2026-03-24T04:00:00.000Z",
-   "end": "2026-10-30T15:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-10-30T09:41:53+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDe4JMAT",
    "source": "jgrants",
