@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:27:00+09:00",
+ "updated": "2026-11-03T00:50:05+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -18,8 +18,8 @@
   },
   "jnet21": {
    "ok": true,
-   "count": 0,
-   "at": "2026-11-02T09:27:00+09:00"
+   "count": 1,
+   "at": "2026-11-03T00:50:05+09:00"
   }
  },
  "items": [
@@ -1670,6 +1670,22 @@
    "note": "",
    "first_seen": "2026-10-29T09:41:12+09:00",
    "checked": "2026-11-02T09:27:00+09:00"
+  },
+  {
+   "id": "jnet21:https://j-net21.smrj.go.jp/snavi/articles/195269",
+   "source": "jnet21",
+   "level": "その他",
+   "title": "【北海道】補助金・助成金：「特別高圧電力利用事業者緊急支援事業（令和8年7月～9月利用分）」",
+   "org": "北海道",
+   "max_amount": null,
+   "rate": "",
+   "start": null,
+   "end": null,
+   "published": "2026-11-02T18:30:00+09:00",
+   "url": "https://j-net21.smrj.go.jp/snavi/articles/195269",
+   "note": "",
+   "first_seen": "2026-11-03T00:50:05+09:00",
+   "checked": "2026-11-03T00:50:05+09:00"
   },
   {
    "id": "jnet21:https://j-net21.smrj.go.jp/snavi/articles/195124",
