@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:10:16+09:00",
+ "updated": "2026-11-12T20:06:37+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-11-12T11:10:16+09:00"
+   "at": "2026-11-12T20:06:37+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDdjfMAD",
-   "source": "jgrants",
-   "level": "国",
-   "title": "[３次公募]中小企業成長加速化補助金",
-   "org": "中小企業成長加速化補助金",
-   "max_amount": 500000000,
-   "rate": "",
-   "start": "2026-09-29T04:00:00.000Z",
-   "end": "2026-11-12T06:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjfMAD",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-11-12T11:10:16+09:00"
-  },
   {
    "id": "jgrants:a0WfQ000003qYNFUA2",
    "source": "jgrants",
