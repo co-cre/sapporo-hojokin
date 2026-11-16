@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:52:42+09:00",
+ "updated": "2026-11-16T18:41:57+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-11-16T09:52:42+09:00"
+   "at": "2026-11-16T18:41:57+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WfQ000003CYIjUAO",
-   "source": "jgrants",
-   "level": "国",
-   "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
-   "org": "ポスト５Ｇ情報通信システム基盤強化研究開発事業",
-   "max_amount": null,
-   "rate": "",
-   "start": "2026-10-14T01:00:00.000Z",
-   "end": "2026-11-16T03:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-11-16T09:52:42+09:00"
-  },
   {
    "id": "jgrants:a0WfQ000003j5GLUAY",
    "source": "jgrants",
