@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:10:41+09:00",
+ "updated": "2026-11-28T19:26:28+09:00",
  "sources": {
   "jgrants": {
    "ok": true,
@@ -19,26 +19,10 @@
   "jnet21": {
    "ok": true,
    "count": 0,
-   "at": "2026-11-28T12:10:41+09:00"
+   "at": "2026-11-28T19:26:28+09:00"
   }
  },
  "items": [
-  {
-   "id": "jgrants:a0WJ200000CDZzQMAX",
-   "source": "jgrants",
-   "level": "国",
-   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）",
-   "org": "再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業",
-   "max_amount": 2200000,
-   "rate": "",
-   "start": "2026-06-22T07:00:00.000Z",
-   "end": "2026-11-28T09:00:00.000Z",
-   "published": null,
-   "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX",
-   "note": "従業員数の制約なし",
-   "first_seen": "2026-10-17T00:56:12+09:00",
-   "checked": "2026-11-28T12:10:41+09:00"
-  },
   {
    "id": "jgrants:a0WJ200000CDa1gMAD",
    "source": "jgrants",
